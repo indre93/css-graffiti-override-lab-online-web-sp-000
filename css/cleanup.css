@@ -3,7 +3,7 @@
   display: none;
 }
 
-.div #tag-2 {
+#tag-2 {
   background: none;
 }
 
@@ -15,14 +15,14 @@
   display: none;
 }
 
-div#wall .parent #tag-5.slick {
+#wall .parent #tag-5.slick {
   display: none;
 }
 
-div#tag-6 {
+#tag-6 {
   display: none;
 }
 
-div#tag-6 {
+#tag-7 {
   display: none;
 }
